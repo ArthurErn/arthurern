@@ -1,9 +1,9 @@
 ## Olá a todos, bem-vindos ao meu perfil! 👋
 
 
-- 🔭 Atualmente trabalhando com Flutter.
-- 🌱 Aprendendo o MobX com estrutura MVC e MVVM.
-- 📫 Contate-me no e-mail: arthurern48@gmail.com !
+- 🖥 Atualmente trabalhando com Flutter.
+- 📚 Aprendendo o MobX com estrutura MVC e MVVM.
+- ✉ Contate-me no e-mail: arthurern48@gmail.com !
 
 <div>
   <a href="https://github.com/arthurern">
