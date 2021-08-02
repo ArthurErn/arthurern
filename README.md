@@ -4,7 +4,7 @@
 - 🖥 Currently working with Flutter.
 - 📚 Learning MobX framework & MVC/MVVM design architecture.
 - ✉ Contact me on my e-mail: arthurern48@gmail.com.
-- 📜PS: All of my Dart/Flutter code is private (well almost).
+- 📜PS: All of my Dart/Flutter code is private (well, almost all of it).
 
 <div>
   <a href="https://github.com/arthurern">
