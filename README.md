@@ -2,7 +2,8 @@
 
 
 - 🖥 Currently working with Flutter.
-- 📚 Learning MobX framework & MVC/MVVM architecture patterns.
+- 📚 Learning MobX.
+- 📚 MVC/MVVM/SOLID architecture patterns.
 - ✉ Contact me on my e-mail: arthurern48@gmail.com.
 - 📜PS: All of my Dart/Flutter code is private (well, almost all of it).
 
