@@ -1,10 +1,9 @@
 ## Hi everybody, welcome to my profile! 👋
 
 
-- 🖥 Currently working with Flutter.
+- 🖥 Currently working with Flutter and C#.
 - 📚 MVC/MVVM/SOLID architecture patterns/principles.
 - ✉ Contact me on my e-mail: arthurern48@gmail.com.
-- 📜PS: All of my Dart/Flutter code is private (well, almost all of it).
 
 <div>
   <a href="https://github.com/arthurern">
